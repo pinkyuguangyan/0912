@@ -1,7 +1,7 @@
 ---
 title: "MA678 homework 01"
 author: "Guangyan Yu"
-date: "Septemeber 9, 2018"
+date: "Septemeber 12, 2018"
 output:
   pdf_document: default
   html_document:
